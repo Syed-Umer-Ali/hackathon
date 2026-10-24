@@ -1,0 +1,11 @@
+emp_id,full_name,department,plant,late_arrivals,total_late_minutes
+E10580,Usman Gill,Cutting,Faisalabad Plant,54,2466.0
+E10982,Adnan Akhtar,Production Planning,Korangi Plant,49,1957.0
+E10454,Raheel Khan,Maintenance,Faisalabad Plant,47,1978.0
+E10283,Ali Raza,Cutting,Faisalabad Plant,46,2187.0
+E10287,Naveed Hussain,Quality Control,Faisalabad Plant,45,2021.0
+E10741,Faisal Khan,Cutting,Faisalabad Plant,45,2007.0
+E11026,Umair Ansari,Utilities,SITE Plant,44,1989.0
+E10192,Saad Ahmed,Maintenance,Faisalabad Plant,43,1803.0
+E11122,Imran Hashmi,Human Resources,Head Office,43,1761.0
+E10901,Owais Awan,Weaving,Korangi Plant,42,1750.0

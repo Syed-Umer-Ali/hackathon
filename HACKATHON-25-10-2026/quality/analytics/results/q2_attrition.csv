@@ -1,0 +1,54 @@
+separation_month,dept_name,attrition_count
+2026-04,Weaving,4
+2026-04,Stitching,2
+2026-04,Packing,2
+2026-04,Human Resources,2
+2026-04,Spinning,1
+2026-04,Quality Control,1
+2026-04,Finance,1
+2026-04,Cutting,1
+2026-05,Spinning,3
+2026-05,Dyeing,3
+2026-05,Weaving,2
+2026-05,Warehouse,2
+2026-05,Stitching,2
+2026-05,Utilities,1
+2026-05,Packing,1
+2026-05,Finishing,1
+2026-05,Compliance,1
+2026-06,Weaving,3
+2026-06,Stitching,3
+2026-06,Packing,2
+2026-06,Maintenance,2
+2026-06,Warehouse,1
+2026-06,Utilities,1
+2026-06,Finishing,1
+2026-06,Dyeing,1
+2026-07,Quality Control,4
+2026-07,Maintenance,4
+2026-07,Warehouse,3
+2026-07,Dyeing,3
+2026-07,Packing,2
+2026-07,IT,2
+2026-07,Finishing,2
+2026-07,Weaving,1
+2026-07,Utilities,1
+2026-07,Supply Chain,1
+2026-07,Spinning,1
+2026-07,Production Planning,1
+2026-07,Cutting,1
+2026-08,Stitching,2
+2026-08,Cutting,2
+2026-08,Weaving,1
+2026-08,Sales & Marketing,1
+2026-08,Production Planning,1
+2026-08,Maintenance,1
+2026-08,Dyeing,1
+2026-09,Stitching,2
+2026-09,Maintenance,2
+2026-09,Cutting,2
+2026-09,Spinning,1
+2026-09,Quality Control,1
+2026-09,Packing,1
+2026-09,Finishing,1
+2026-09,Dyeing,1

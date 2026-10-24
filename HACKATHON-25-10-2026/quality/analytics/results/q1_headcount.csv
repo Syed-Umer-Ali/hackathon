@@ -1,0 +1,26 @@
+plant,dept_name,headcount
+Faisalabad Plant,Stitching,146
+Faisalabad Plant,Cutting,77
+Faisalabad Plant,Packing,57
+Faisalabad Plant,Quality Control,32
+Faisalabad Plant,Maintenance,30
+Faisalabad Plant,Warehouse,21
+Head Office,Sales & Marketing,24
+Head Office,Supply Chain,19
+Head Office,Finance,19
+Head Office,Administration,19
+Head Office,Human Resources,14
+Head Office,IT,13
+Head Office,Compliance,12
+Korangi Plant,Weaving,126
+Korangi Plant,Spinning,115
+Korangi Plant,Maintenance,40
+Korangi Plant,Quality Control,38
+Korangi Plant,Warehouse,28
+Korangi Plant,Production Planning,23
+SITE Plant,Dyeing,106
+SITE Plant,Finishing,97
+SITE Plant,Utilities,32
+SITE Plant,Quality Control,30
+SITE Plant,Maintenance,30
+SITE Plant,Warehouse,28
